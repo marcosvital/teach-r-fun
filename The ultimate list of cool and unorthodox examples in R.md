@@ -1,6 +1,6 @@
 # The ultimate list of cool and unorthodox examples in R
 
-Creating this for MozFest 2017!
+OK, probably not ultimate... yet! I started this list before my session at [MozFest 2017](https://mozillafestival.org/), and everyone can contribute by sending pull requests or sending me links to nice examples like the ones bellow.
 
 - [Meme creation in R](https://www.r-bloggers.com/creat-meme-in-r/amp/)
 - [More meme creation in R](http://rpubs.com/dsollberger/Rmemes)
