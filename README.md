@@ -17,7 +17,7 @@ The rationale here is pretty straightforward: as students tackle with subjects t
 **What do we have so far**
 
 - [The ultimate list of cool and unorthodox examples in R](https://github.com/marcosvital/teach-r-fun/blob/master/The%20ultimate%20list%20of%20cool%20and%20unorthodox%20examples%20in%20R.md): this is, at this moment, the core of this project!
-- [Slides from MozFest session are here on google docs](https://docs.google.com/presentation/d/1fEAvFY4vGtWdQDXU4akZLodbnHZdbz0uCYhLioE3ryE/edit?usp=sharing) and [in a pdf file](https://github.com/marcosvital/teach-r-fun/docs/Teach-R-project-mozfest-2017.pdf).
+- [Slides from MozFest session are here on google docs](https://docs.google.com/presentation/d/1fEAvFY4vGtWdQDXU4akZLodbnHZdbz0uCYhLioE3ryE/edit?usp=sharing) and [in a pdf file](https://github.com/marcosvital/teach-r-fun/blob/master/docs/Teach-R-project-mozfest-2017.pdf).
 - Back on the "mother project", I started building [The funniest R course course in the world](https://github.com/marcosvital/teach-R-project/tree/master/courses/en/Funniest%20R%20course); right now there's only the script for Tie Plots, and I'll probably just bring it to this repo later.
 
 **How can you help?**
