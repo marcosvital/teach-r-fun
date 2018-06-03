@@ -7,6 +7,8 @@ What is the key for learning R? Having a good teacher, following well structured
 
 This repo was born during a session I facilitated at [MozFest 2017](mozillafestival.org) about Teaching R. It is related to the [Open Teach-R project](https://github.com/marcosvital/teach-R-project), but it will work as a stand alone project. And its purpose is simple as that: I want to compile fun, unorthodox or unexpected examples of R functions, packages, tutorials or datasets, so we can all use it for teaching (or for having fun ourselves).
 
+*** 
+ 
 ![](https://github.com/marcosvital/teach-r-fun/blob/master/images/spanish-inquisition.jpg)
 
 The rationale here is pretty straightforward: as students tackle with subjects that they might perceive as difficult and/or boring, using the unexpected can draw their attention and fuel their interest.
