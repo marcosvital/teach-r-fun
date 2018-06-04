@@ -22,4 +22,10 @@ The rationale here is pretty straightforward: as students tackle with subjects t
 
 **How can you help?**
 
-OK, a contributing file and a code of conduct are coming soon. But if you want to help right now, take a look at the [list here](https://github.com/marcosvital/teach-r-fun/blob/master/The%20ultimate%20list%20of%20cool%20and%20unorthodox%20examples%20in%20R.md) and feel free to send any suggestions. You can say hi creating a issue, send me an email at marcosvital at gmail or sending a PR here at GitHub. ;)
+Yeah, you want to help, thank you! \o/ :D
+
+Please check out the [CONTRIBUTING file](https://github.com/marcosvital/teach-r-fun/blob/master/CONTRIBUTING.md) for some pointers, and feel free to reach me anytime you want to.
+
+Oh, and remember to be nice and respectful to everyone, ok? We have a [Code of Conduct here](https://github.com/marcosvital/teach-r-fun/blob/master/Code%20of%20Conduct.md), from [Contributor Covenant v1.4.1](https://www.contributor-covenant.org/). If something or someone on this project made you feel bad, let me know.
+
+If you want to reach me, send an email to marcosvital at gmail, or talk to me [on Twitter](https://twitter.com/marcosvcvital). ;) 
