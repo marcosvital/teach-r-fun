@@ -1,6 +1,8 @@
 # Teach fun R courses! :D
 **Resources for teaching R using fun and unorthodox examples**
 
+*Want to jump right into the fun stuff list?* [It's here!](https://github.com/marcosvital/teach-r-fun/blob/master/The%20ultimate%20list%20of%20cool%20and%20unorthodox%20examples%20in%20R.md) :)
+
 What is the key for learning R? Having a good teacher, following well structured guides, using learning material that is focused on your needs - all this can make a huge difference, as R is known for its steep learning curve (specially for people without programming background). If you have a few or all of those elements at hand, learning it will be much easier... but it can be even better, it can be just plain **fun!**
 
 **About this repo**
