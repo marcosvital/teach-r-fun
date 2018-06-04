@@ -16,6 +16,7 @@ OK, probably not ultimate... yet! I started this list before my session at [MozF
 - [Emoji data science in R](https://prismoji.com/2017/02/06/emoji-data-science-in-r-tutorial/)
 - [GIS of Thrones!](https://blog.gvsig.org/2016/05/24/gis-of-thrones-mapping-game-of-thrones-with-gvsig/) Not R orientaded, but provides shapefiles for Westeros that can be easely used on R. There is also a free ebook from them [here](https://blog.gvsig.org/2017/07/12/learning-gis-with-game-of-thrones-free-book/)
 - [A Delicious Analysis! (aka topic modelling using recipes)](https://www.r-bloggers.com/a-delicious-analysis-aka-topic-modelling-using-recipes/)
+- [Unicorn on Unicycles](http://rmhogervorst.nl/cleancode/blog/2018/03/12/content/post/2018-03-12-a-dirty-dataset-for-you-to-clean/) A dataset about unicorns and, yes, unicycles - with a exercise on data cleaning.
 
 *Those are in portuguese, from my own blog:*
 
