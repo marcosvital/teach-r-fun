@@ -31,3 +31,8 @@ Please check out the [CONTRIBUTING file](https://github.com/marcosvital/teach-r-
 Oh, and remember to be nice and respectful to everyone, ok? We have a [Code of Conduct here](https://github.com/marcosvital/teach-r-fun/blob/master/Code%20of%20Conduct.md), from [Contributor Covenant v1.4.1](https://www.contributor-covenant.org/). If something or someone on this project made you feel bad, let me know.
 
 If you want to reach me, send an email to marcosvital at gmail, or talk to me [on Twitter](https://twitter.com/marcosvcvital). ;) 
+
+***
+![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+This is an open project, licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
